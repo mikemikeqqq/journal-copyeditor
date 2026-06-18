@@ -49,14 +49,14 @@ Many non-native English-speaking researchers face practical friction before subm
 Give Codex the repository URL and ask it to install the whole skill directory:
 
 ```text
-https://github.com/mikemikeqqq/journal-copyeditor.git
+https://github.com/mikemikeqqq/copyeditor-skill.git
 ```
 
 Suggested prompt:
 
 ```text
 Please install this Codex skill:
-https://github.com/mikemikeqqq/journal-copyeditor.git
+https://github.com/mikemikeqqq/copyeditor-skill.git
 
 Install the complete repository into my Codex skills directory with the folder name copyeditor-skill.
 Do not copy only SKILL.md; preserve agents/, references/, and scripts/.
@@ -74,14 +74,14 @@ Use $copyeditor-skill to copy-edit this academic manuscript with Word tracked ch
 
 ```powershell
 mkdir "$env:USERPROFILE\.codex\skills" -Force
-git clone https://github.com/mikemikeqqq/journal-copyeditor.git "$env:USERPROFILE\.codex\skills\copyeditor-skill"
+git clone https://github.com/mikemikeqqq/copyeditor-skill.git "$env:USERPROFILE\.codex\skills\copyeditor-skill"
 ```
 
 ### macOS / Linux
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/mikemikeqqq/journal-copyeditor.git ~/.codex/skills/copyeditor-skill
+git clone https://github.com/mikemikeqqq/copyeditor-skill.git ~/.codex/skills/copyeditor-skill
 ```
 
 Restart Codex after installation.
@@ -216,7 +216,7 @@ For PRs, please describe:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mikemikeqqq/journal-copyeditor&type=Date)](https://star-history.com/#mikemikeqqq/journal-copyeditor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mikemikeqqq/copyeditor-skill&type=Date)](https://star-history.com/#mikemikeqqq/copyeditor-skill&Date)
 
 ## License
 

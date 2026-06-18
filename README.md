@@ -49,14 +49,14 @@
 最简单的方式是把仓库链接交给 Codex，并让它安装完整技能目录：
 
 ```text
-https://github.com/mikemikeqqq/journal-copyeditor.git
+https://github.com/mikemikeqqq/copyeditor-skill.git
 ```
 
 推荐提示词：
 
 ```text
 请从这个仓库安装 Codex skill：
-https://github.com/mikemikeqqq/journal-copyeditor.git
+https://github.com/mikemikeqqq/copyeditor-skill.git
 
 请把完整仓库安装到我的 Codex skills 目录中，目标文件夹名使用 copyeditor-skill。
 不要只复制 SKILL.md；请保留 agents/、references/ 和 scripts/。
@@ -74,14 +74,14 @@ https://github.com/mikemikeqqq/journal-copyeditor.git
 
 ```powershell
 mkdir "$env:USERPROFILE\.codex\skills" -Force
-git clone https://github.com/mikemikeqqq/journal-copyeditor.git "$env:USERPROFILE\.codex\skills\copyeditor-skill"
+git clone https://github.com/mikemikeqqq/copyeditor-skill.git "$env:USERPROFILE\.codex\skills\copyeditor-skill"
 ```
 
 ### macOS / Linux
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/mikemikeqqq/journal-copyeditor.git ~/.codex/skills/copyeditor-skill
+git clone https://github.com/mikemikeqqq/copyeditor-skill.git ~/.codex/skills/copyeditor-skill
 ```
 
 安装后重启 Codex，让新 skill 被加载。
@@ -216,7 +216,7 @@ python scripts/create_delivery_package.py "edited.docx" --output-dir "output/doc
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mikemikeqqq/journal-copyeditor&type=Date)](https://star-history.com/#mikemikeqqq/journal-copyeditor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mikemikeqqq/copyeditor-skill&type=Date)](https://star-history.com/#mikemikeqqq/copyeditor-skill&Date)
 
 ## License
 
