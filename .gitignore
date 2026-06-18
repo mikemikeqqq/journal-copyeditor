@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local outputs and manuscripts
+output/
+*.docx
+*.doc
+*.pdf
+*.rtf
+*.tmp
+~$*
+
+# Audit artifacts
+*_audit.json
+*_audit.md
+validation_*.json
+validation_*.md
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
