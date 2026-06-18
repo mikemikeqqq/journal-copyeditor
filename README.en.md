@@ -29,6 +29,24 @@ Many non-native English-speaking researchers face practical friction before subm
 |---|---|---|---|
 | `copyeditor-skill` | Beta | Academic `.docx` copyediting with Word tracked changes, comments, citation/number audits, formatting preservation, and delivery validation | "copy editing", "proofread", "line edit", "academic editing", "tracked changes", "editor comments", "journal submission editing" |
 
+## Example Output
+
+The screenshots below show real output from `copyeditor-skill` on academic `.docx` manuscripts. The skill is designed to do more than generic polishing: it leaves reviewable Word changes, flags problems from a reviewer-facing perspective, and gives authors concrete revision actions.
+
+### 1. Word tracked changes like a copy editor
+
+![Word tracked changes example](assets/readme/tracked-changes-example.png)
+
+### 2. Reviewer-facing comments on citations, figure numbering, and statistics
+
+![Editor comments example](assets/readme/editor-comments-example.png)
+
+### 3. Actionable revision plans like a private writing mentor
+
+![Revision plan example](assets/readme/revision-plan-example.png)
+
+If this skill saves you time before submission, please consider starring the repository so it is easier to maintain and improve.
+
 ## Capabilities
 
 | Capability | Description |

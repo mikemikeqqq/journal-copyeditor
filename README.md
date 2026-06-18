@@ -29,6 +29,24 @@
 |---|---|---|---|
 | `copyeditor-skill` | Beta | 学术 `.docx` copy editing、Word 修订模式、批注、引用/数字审查、格式保真和交付验证 | “copy editing”, “proofread”, “line edit”, “论文润色”, “英文学术校对”, “修订模式”, “批注”, “投稿前语言编辑” |
 
+## 效果展示
+
+下面是使用 `copyeditor-skill` 处理学术 `.docx` 手稿后的真实效果截图。它不是只给一段泛泛润色，而是尽量像专业 copy editor 一样留下可审阅的修改痕迹、从审稿人角度指出问题，并给出作者可以继续处理的修改方案。
+
+### 1. 像 copy editor 一样保留 Word 修订痕迹
+
+![Word tracked changes example](assets/readme/tracked-changes-example.png)
+
+### 2. 从审稿人角度发现引用、图号和统计报告问题
+
+![Editor comments example](assets/readme/editor-comments-example.png)
+
+### 3. 像私人导师一样提供可执行修改方案
+
+![Revision plan example](assets/readme/revision-plan-example.png)
+
+如果这个 skill 帮你节省了投稿前检查和 copy editing 的时间，欢迎给仓库点一个 Star，方便后续持续维护和改进。
+
 ## 核心能力
 
 | 能力 | 说明 |
