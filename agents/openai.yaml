@@ -1,4 +1,4 @@
 interface:
-  display_name: "Journal Copyeditor DOCX"
+  display_name: "Copyeditor Skill"
   short_description: "Copy-edit academic DOCX with tracked-change QA"
-  default_prompt: "Use $journal-copyeditor-docx to copy-edit this academic manuscript with Word tracked changes, audit citations/references and numbers, sort author-date citation clusters by year when safe, preserve existing comments, append a copy editing report, and validate the final DOCX."
+  default_prompt: "Use $copyeditor-skill to copy-edit this academic manuscript with Word tracked changes, audit citations/references and numbers, sort author-date citation clusters by year when safe, preserve existing comments, append a copy editing report, and validate the final DOCX."

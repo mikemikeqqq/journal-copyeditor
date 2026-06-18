@@ -1,9 +1,9 @@
 ---
-name: journal-copyeditor-docx
-description: Professional academic journal copyediting for .docx manuscripts. Use when the user asks Codex to proofread, line-edit, polish, revise, or prepare an academic manuscript in Microsoft Word with tracked changes, Catherine-style editor comments, formal critical academic English, construct consistency, methodological caution, minimal local tracked edits instead of whole-paragraph replacement, citation-year ordering, citation/reference audits, statistics/number consistency checks, journal style profiles, reviewer-risk audit, clean/tracked/PDF delivery packages, an appended copy editing and proofreading report, preservation of existing comments/revisions/citations/fields/fonts/formatting, native English style, journal or discipline conventions, Chinese-influenced English cleanup, and validation against DOCX corruption, mojibake, unexpected CJK characters, missing Catherine comments, formatting drift, or excessive paragraph-level revision blocks.
+name: copyeditor-skill
+description: Professional academic copyediting skill for .docx manuscripts. Use when the user asks Codex to proofread, line-edit, polish, revise, copy edit, or prepare an academic manuscript in Microsoft Word with tracked changes, Catherine-style editor comments, formal critical academic English, construct consistency, methodological caution, minimal local tracked edits instead of whole-paragraph replacement, citation-year ordering, citation/reference audits, statistics/number consistency checks, journal style profiles, reviewer-risk audit, clean/tracked/PDF delivery packages, an appended copy editing and proofreading report, preservation of existing comments/revisions/citations/fields/fonts/formatting, native English style, journal or discipline conventions, Chinese-influenced English cleanup, and validation against DOCX corruption, mojibake, unexpected CJK characters, missing Catherine comments, formatting drift, or excessive paragraph-level revision blocks. Also use for Chinese requests such as 论文润色, 英文学术校对, copy editing, 修订模式, 批注, 投稿前语言编辑, and 非英语母语作者英文论文修改.
 ---
 
-# Journal Copyeditor DOCX
+# Copyeditor Skill
 
 Use this skill when the deliverable is a copy-edited academic `.docx`, normally with Microsoft Word tracked changes and concise editor comments.
 
