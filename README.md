@@ -16,7 +16,7 @@
 Copy or clone this folder into your Codex skills directory:
 
 ```powershell
-git clone https://github.com/mikemikeqqq/journal-copyeditor-docx.git "$env:USERPROFILE\.codex\skills\journal-copyeditor-docx"
+git clone https://github.com/mikemikeqqq/journal-copyeditor.git "$env:USERPROFILE\.codex\skills\journal-copyeditor-docx"
 ```
 
 Restart Codex after installing the skill.
